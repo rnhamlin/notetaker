@@ -10,4 +10,4 @@ https://lit-shelf-58853.herokuapp.com/
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](notetaker-screenshot.png)
